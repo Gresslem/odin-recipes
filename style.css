@@ -1,0 +1,26 @@
+* {
+    background-color: peachpuff;
+}
+
+h1 {
+    color: white;
+    font-family: Brush;
+    font-size: 65px;
+    text-align:left;
+}
+
+.link {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.title {
+    height: 500pxs;
+    width: 250px;
+}
+
+.fin {
+    height: 300px;
+    width: 200px;
+}
